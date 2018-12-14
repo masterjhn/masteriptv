@@ -1,7 +1,372 @@
-#EXTM3U
-#EXTINF:-1,TVA SPORTS
-http://free-iptv.pro:8000/YL10012/Mu1829/30595
-#EXTINF:-1,RDS HD
-http://vapi.vaders.tv/play/57579.m3u8?token=eyJ1c2VybmFtZSI6Iml0NmpodnVxYXIiLCJwYXNzd29yZCI6ImFrNXJ2bWZ0ZTYifQ==
-#EXTINF:-1,RDS 2 HD
-http://iptv.ndasat.com:88/Stravpoll345/e2nlCG5xew/2623
+#EXTINF:-1,|CA| A_E
+http://212.8.248.94:2103/live/nani27/nani27/3552.ts
+#EXTINF:-1,|CA| ABC EAST
+http://212.8.248.94:2103/live/nani27/nani27/3487.ts
+#EXTINF:-1,|CA| ABC SPARK
+http://212.8.248.94:2103/live/nani27/nani27/3390.ts
+#EXTINF:-1,|CA| ABC WEST CA
+http://212.8.248.94:2103/live/nani27/nani27/3551.ts
+#EXTINF:-1,|CA| ACTION
+http://212.8.248.94:2103/live/nani27/nani27/3442.ts
+#EXTINF:-1,|CA| ADDIK TV HD
+http://212.8.248.94:2103/live/nani27/nani27/3441.ts
+#EXTINF:-1,|CA| AHC
+http://212.8.248.94:2103/live/nani27/nani27/3377.ts
+#EXTINF:-1,|CA| AMC
+http://212.8.248.94:2103/live/nani27/nani27/3550.ts
+#EXTINF:-1,|CA| ANIMAL PLANET HD
+http://212.8.248.94:2103/live/nani27/nani27/3549.ts
+#EXTINF:-1,|CA| APTN
+http://212.8.248.94:2103/live/nani27/nani27/3440.ts
+#EXTINF:-1,|CA| ARTV
+http://212.8.248.94:2103/live/nani27/nani27/3439.ts
+#EXTINF:-1,|CA| BBC CANADA
+http://212.8.248.94:2103/live/nani27/nani27/3438.ts
+#EXTINF:-1,|CA| BBC KIDS
+http://212.8.248.94:2103/live/nani27/nani27/3437.ts
+#EXTINF:-1,|CA| BBC WORLD NEWS
+http://212.8.248.94:2103/live/nani27/nani27/3486.ts
+#EXTINF:-1,|CA| BET
+http://212.8.248.94:2103/live/nani27/nani27/3485.ts
+#EXTINF:-1,|CA| BNN
+http://212.8.248.94:2103/live/nani27/nani27/3436.ts
+#EXTINF:-1,|CA| BOOK TV
+http://212.8.248.94:2103/live/nani27/nani27/3484.ts
+#EXTINF:-1,|CA| BRAVO
+http://212.8.248.94:2103/live/nani27/nani27/3435.ts
+#EXTINF:-1,|CA| CANAL D
+http://212.8.248.94:2103/live/nani27/nani27/3464.ts
+#EXTINF:-1,|CA| CANAL SAVOIR HD
+http://212.8.248.94:2103/live/nani27/nani27/3548.ts
+#EXTINF:-1,|CA| CARTOON NETWORK
+http://212.8.248.94:2103/live/nani27/nani27/3483.ts
+#EXTINF:-1,|CA| CASA HD
+http://212.8.248.94:2103/live/nani27/nani27/3547.ts
+#EXTINF:-1,|CA| CBC MONTREAL
+http://212.8.248.94:2103/live/nani27/nani27/3376.ts
+#EXTINF:-1,|CA| CBC NEWS
+http://212.8.248.94:2103/live/nani27/nani27/3482.ts
+#EXTINF:-1,|CA| CBC OTTAWA
+http://212.8.248.94:2103/live/nani27/nani27/3434.ts
+#EXTINF:-1,|CA| CBC TORONTO HD
+http://212.8.248.94:2103/live/nani27/nani27/3546.ts
+#EXTINF:-1,|CA| CBC VANCOUVER
+http://212.8.248.94:2103/live/nani27/nani27/3433.ts
+#EXTINF:-1,|CA| CBS EAST
+http://212.8.248.94:2103/live/nani27/nani27/3432.ts
+#EXTINF:-1,|CA| CBS WEST
+http://212.8.248.94:2103/live/nani27/nani27/3431.ts
+#EXTINF:-1,|CA| CHCH
+http://212.8.248.94:2103/live/nani27/nani27/3545.ts
+#EXTINF:-1,|CA| CINEPOP
+http://212.8.248.94:2103/live/nani27/nani27/3430.ts
+#EXTINF:-1,|CA| CITY TORONTO
+http://212.8.248.94:2103/live/nani27/nani27/3429.ts
+#EXTINF:-1,|CA| CITY VANCOUVER
+http://212.8.248.94:2103/live/nani27/nani27/3463.ts
+#EXTINF:-1,|CA| CMT
+http://212.8.248.94:2103/live/nani27/nani27/3481.ts
+#EXTINF:-1,|CA| CNBC
+http://212.8.248.94:2103/live/nani27/nani27/3428.ts
+#EXTINF:-1,|CA| CNN
+http://212.8.248.94:2103/live/nani27/nani27/3544.ts
+#EXTINF:-1,|CA| CNN INTERNATIONAL HD
+http://212.8.248.94:2103/live/nani27/nani27/3427.ts
+#EXTINF:-1,|CA| COMEDY EAST
+http://212.8.248.94:2103/live/nani27/nani27/3375.ts
+#EXTINF:-1,|CA| COMEDY GOLD
+http://212.8.248.94:2103/live/nani27/nani27/3543.ts
+#EXTINF:-1,|CA| COOKING CHANNEL
+http://212.8.248.94:2103/live/nani27/nani27/3542.ts
+#EXTINF:-1,|CA| COSMO
+http://212.8.248.94:2103/live/nani27/nani27/3479.ts
+#EXTINF:-1,|CA| COTTAGE LIFE
+http://212.8.248.94:2103/live/nani27/nani27/3478.ts
+#EXTINF:-1,|CA| CP24
+http://212.8.248.94:2103/live/nani27/nani27/3541.ts
+#EXTINF:-1,|CA| CPAC
+http://212.8.248.94:2103/live/nani27/nani27/3540.ts
+#EXTINF:-1,|CA| CPAC FRANCAIS
+http://212.8.248.94:2103/live/nani27/nani27/3539.ts
+#EXTINF:-1,|CA| CRIME + INVESTIGATION HD
+http://212.8.248.94:2103/live/nani27/nani27/4385.ts
+#EXTINF:-1,|CA| CTV 2 VANCOUVER
+http://212.8.248.94:2103/live/nani27/nani27/3538.ts
+#EXTINF:-1,|CA| CTV NEWS NETWORK
+http://212.8.248.94:2103/live/nani27/nani27/3537.ts
+#EXTINF:-1,|CA| CTV OTTAWA CA
+http://212.8.248.94:2103/live/nani27/nani27/3536.ts
+#EXTINF:-1,|CA| CTV TORONTO
+http://212.8.248.94:2103/live/nani27/nani27/3535.ts
+#EXTINF:-1,|CA| CTV2 OTTAWA
+http://212.8.248.94:2103/live/nani27/nani27/3374.ts
+#EXTINF:-1,|CA| CW 11
+http://212.8.248.94:2103/live/nani27/nani27/3534.ts
+#EXTINF:-1,|CA| DAYSTAR TV
+http://212.8.248.94:2103/live/nani27/nani27/3533.ts
+#EXTINF:-1,|CA| DEJAVIEW
+http://212.8.248.94:2103/live/nani27/nani27/3477.ts
+#EXTINF:-1,|CA| DISCOVERY CANADA HD
+http://212.8.248.94:2103/live/nani27/nani27/3426.ts
+#EXTINF:-1,|CA| DISCOVERY SCIENCE CANADA HD
+http://212.8.248.94:2103/live/nani27/nani27/3373.ts
+#EXTINF:-1,|CA| DISNEY CANADA HD
+http://212.8.248.94:2103/live/nani27/nani27/3372.ts
+#EXTINF:-1,|CA| DISNEY CHANNEL HD
+http://212.8.248.94:2103/live/nani27/nani27/3389.ts
+#EXTINF:-1,|CA| DISNEY FRENCH
+http://212.8.248.94:2103/live/nani27/nani27/3532.ts
+#EXTINF:-1,|CA| DISNEY JR
+http://212.8.248.94:2103/live/nani27/nani27/3381.ts
+#EXTINF:-1,|CA| DIY
+http://212.8.248.94:2103/live/nani27/nani27/3425.ts
+#EXTINF:-1,|CA| DOCUMENTARY
+http://212.8.248.94:2103/live/nani27/nani27/3476.ts
+#EXTINF:-1,|CA| DTOUR
+http://212.8.248.94:2103/live/nani27/nani27/3531.ts
+#EXTINF:-1,|CA| E! CANADA
+http://212.8.248.94:2103/live/nani27/nani27/3371.ts
+#EXTINF:-1,|CA| ENCORE 1 EAST CA
+http://212.8.248.94:2103/live/nani27/nani27/3530.ts
+#EXTINF:-1,|CA| ENCORE 2
+http://212.8.248.94:2103/live/nani27/nani27/3419.ts
+#EXTINF:-1,|CA| FAMILY CHRGD
+http://212.8.248.94:2103/live/nani27/nani27/3424.ts
+#EXTINF:-1,|CA| FAMILY EAST
+http://212.8.248.94:2103/live/nani27/nani27/3380.ts
+#EXTINF:-1,|CA| FAMILY WEST
+http://212.8.248.94:2103/live/nani27/nani27/3418.ts
+#EXTINF:-1,|CA| FIGHT NETWORK HD
+http://212.8.248.94:2103/live/nani27/nani27/3529.ts
+#EXTINF:-1,|CA| FOOD NETWORK HD
+http://212.8.248.94:2103/live/nani27/nani27/3528.ts
+#EXTINF:-1,|CA| FOX EAST
+http://212.8.248.94:2103/live/nani27/nani27/3417.ts
+#EXTINF:-1,|CA| FOX NEWS
+http://212.8.248.94:2103/live/nani27/nani27/3527.ts
+#EXTINF:-1,|CA| FOX WEST
+http://212.8.248.94:2103/live/nani27/nani27/3526.ts
+#EXTINF:-1,|CA| FRISIN
+http://212.8.248.94:2103/live/nani27/nani27/3386.ts
+#EXTINF:-1,|CA| FTV CANADA
+http://212.8.248.94:2103/live/nani27/nani27/3416.ts
+#EXTINF:-1,|CA| FYI
+http://212.8.248.94:2103/live/nani27/nani27/3525.ts
+#EXTINF:-1,|CA| Game TV
+http://212.8.248.94:2103/live/nani27/nani27/3415.ts
+#EXTINF:-1,|CA| GINX ESPORTS TV HD
+http://212.8.248.94:2103/live/nani27/nani27/3370.ts
+#EXTINF:-1,|CA| GLOBAL TORONTO
+http://212.8.248.94:2103/live/nani27/nani27/3524.ts
+#EXTINF:-1,|CA| GLOBAL VANCOUVER
+http://212.8.248.94:2103/live/nani27/nani27/3414.ts
+#EXTINF:-1,|CA| GOLF
+http://212.8.248.94:2103/live/nani27/nani27/3475.ts
+#EXTINF:-1,|CA| GSN
+http://212.8.248.94:2103/live/nani27/nani27/3523.ts
+#EXTINF:-1,|CA| GUSTO
+http://212.8.248.94:2103/live/nani27/nani27/3423.ts
+#EXTINF:-1,|CA| H2
+http://212.8.248.94:2103/live/nani27/nani27/3411.ts
+#EXTINF:-1,|CA| HBO 1
+http://212.8.248.94:2103/live/nani27/nani27/3522.ts
+#EXTINF:-1,|CA| HBO 2
+http://212.8.248.94:2103/live/nani27/nani27/3422.ts
+#EXTINF:-1,|CA| HGTV
+http://212.8.248.94:2103/live/nani27/nani27/3521.ts
+#EXTINF:-1,|CA| HISTORY
+http://212.8.248.94:2103/live/nani27/nani27/3520.ts
+#EXTINF:-1,|CA| HLN
+http://212.8.248.94:2103/live/nani27/nani27/3421.ts
+#EXTINF:-1,|CA| ICI MONTREAL HD
+http://212.8.248.94:2103/live/nani27/nani27/4384.ts
+#EXTINF:-1,|CA| ICI VANCOUVER
+http://212.8.248.94:2103/live/nani27/nani27/4383.ts
+#EXTINF:-1,|CA| ID CANADA
+http://212.8.248.94:2103/live/nani27/nani27/3466.ts
+#EXTINF:-1,|CA| IFC
+http://212.8.248.94:2103/live/nani27/nani27/3465.ts
+#EXTINF:-1,|CA| KNOWLEDGE KIDS
+http://212.8.248.94:2103/live/nani27/nani27/3462.ts
+#EXTINF:-1,|CA| KTLA
+http://212.8.248.94:2103/live/nani27/nani27/3410.ts
+#EXTINF:-1,|CA| LCN
+http://212.8.248.94:2103/live/nani27/nani27/3461.ts
+#EXTINF:-1,|CA| LIFETIME
+http://212.8.248.94:2103/live/nani27/nani27/3409.ts
+#EXTINF:-1,|CA| LOVE NATURE
+http://212.8.248.94:2103/live/nani27/nani27/3382.ts
+#EXTINF:-1,|CA| MAGINO
+http://212.8.248.94:2103/live/nani27/nani27/3519.ts
+#EXTINF:-1,|CA| MAVTV
+http://212.8.248.94:2103/live/nani27/nani27/3460.ts
+#EXTINF:-1,|CA| MAX
+http://212.8.248.94:2103/live/nani27/nani27/3369.ts
+#EXTINF:-1,|CA| METEO MEDIA
+http://212.8.248.94:2103/live/nani27/nani27/3368.ts
+#EXTINF:-1,|CA| MIRACLE
+http://212.8.248.94:2103/live/nani27/nani27/3459.ts
+#EXTINF:-1,|CA| MOI & CIE
+http://212.8.248.94:2103/live/nani27/nani27/3518.ts
+#EXTINF:-1,|CA| MSNBC HD
+http://212.8.248.94:2103/live/nani27/nani27/3387.ts
+#EXTINF:-1,|CA| MTIME
+http://212.8.248.94:2103/live/nani27/nani27/3517.ts
+#EXTINF:-1,|CA| MTV
+http://212.8.248.94:2103/live/nani27/nani27/3516.ts
+#EXTINF:-1,|CA| MUCH MUSIC CA
+http://212.8.248.94:2103/live/nani27/nani27/3420.ts
+#EXTINF:-1,|CA| MUSIQUE PLUS
+http://212.8.248.94:2103/live/nani27/nani27/3515.ts
+#EXTINF:-1,|CA| NAT GEO
+http://212.8.248.94:2103/live/nani27/nani27/3413.ts
+#EXTINF:-1,|CA| NBA TV
+http://212.8.248.94:2103/live/nani27/nani27/3458.ts
+#EXTINF:-1,|CA| NBC EAST
+http://212.8.248.94:2103/live/nani27/nani27/3514.ts
+#EXTINF:-1,|CA| NBC WEST
+http://212.8.248.94:2103/live/nani27/nani27/3513.ts
+#EXTINF:-1,|CA| NICK
+http://212.8.248.94:2103/live/nani27/nani27/3512.ts
+#EXTINF:-1,|CA| NTV
+http://212.8.248.94:2103/live/nani27/nani27/3457.ts
+#EXTINF:-1,|CA| OLN
+http://212.8.248.94:2103/live/nani27/nani27/3511.ts
+#EXTINF:-1,|CA| OMNI 1
+http://212.8.248.94:2103/live/nani27/nani27/3510.ts
+#EXTINF:-1,|CA| OMNI 2
+http://212.8.248.94:2103/live/nani27/nani27/3379.ts
+#EXTINF:-1,|CA| ONE
+http://212.8.248.94:2103/live/nani27/nani27/3367.ts
+#EXTINF:-1,|CA| OUTTV
+http://212.8.248.94:2103/live/nani27/nani27/3509.ts
+#EXTINF:-1,|CA| OWN
+http://212.8.248.94:2103/live/nani27/nani27/3508.ts
+#EXTINF:-1,|CA| PBS EAST
+http://212.8.248.94:2103/live/nani27/nani27/3507.ts
+#EXTINF:-1,|CA| PEACH TREE
+http://212.8.248.94:2103/live/nani27/nani27/3366.ts
+#EXTINF:-1,|CA| PRISE
+http://212.8.248.94:2103/live/nani27/nani27/3408.ts
+#EXTINF:-1,|CA| ICI RDI
+http://212.8.248.94:2103/live/nani27/nani27/3506.ts
+#EXTINF:-1,|CA| RDS
+http://212.8.248.94:2103/live/nani27/nani27/3407.ts
+#EXTINF:-1,|CA| RDS 2
+http://212.8.248.94:2103/live/nani27/nani27/3365.ts
+#EXTINF:-1,|CA| SERIS +
+http://212.8.248.94:2103/live/nani27/nani27/3406.ts
+#EXTINF:-1,|CA| SHOPPING
+http://212.8.248.94:2103/live/nani27/nani27/3501.ts
+#EXTINF:-1,|CA| SHOWCASE EAST
+http://212.8.248.94:2103/live/nani27/nani27/3364.ts
+#EXTINF:-1,|CA| SILVER SCREEN CLASSICS
+http://212.8.248.94:2103/live/nani27/nani27/3456.ts
+#EXTINF:-1,|CA| SLICE
+http://212.8.248.94:2103/live/nani27/nani27/3405.ts
+#EXTINF:-1,|CA| SPACE
+http://212.8.248.94:2103/live/nani27/nani27/3500.ts
+#EXTINF:-1,|CA| SPIKE TV PARAMOUNT
+http://212.8.248.94:2103/live/nani27/nani27/3360.ts
+#EXTINF:-1,|CA| SPORTSNET 360 FULL HD
+http://212.8.248.94:2103/live/nani27/nani27/3469.ts
+#EXTINF:-1,|CA| SPORTSNET EAST
+http://212.8.248.94:2103/live/nani27/nani27/3412.ts
+#EXTINF:-1,|CA| SPORTSNET ONE FULL HD
+http://212.8.248.94:2103/live/nani27/nani27/3468.ts
+#EXTINF:-1,|CA| SPORTSNET ONTARIO FULL HD
+http://212.8.248.94:2103/live/nani27/nani27/3467.ts
+#EXTINF:-1,|CA| SPORTSNET PACIFIC HD
+http://212.8.248.94:2103/live/nani27/nani27/3499.ts
+#EXTINF:-1,|CA| SPORTSNET WEST
+http://212.8.248.94:2103/live/nani27/nani27/3455.ts
+#EXTINF:-1,|CA| SPORTSNET WORLD HD
+http://212.8.248.94:2103/live/nani27/nani27/3498.ts
+#EXTINF:-1,|CA| SUNDANCE
+http://212.8.248.94:2103/live/nani27/nani27/3404.ts
+#EXTINF:-1,|CA| SUPER CHANNEL VAULT
+http://212.8.248.94:2103/live/nani27/nani27/3454.ts
+#EXTINF:-1,|CA| SUPER ECRAN 1
+http://212.8.248.94:2103/live/nani27/nani27/3505.ts
+#EXTINF:-1,|CA| SUPER ECRAN 2
+http://212.8.248.94:2103/live/nani27/nani27/3504.ts
+#EXTINF:-1,|CA| SUPER ECRAN 3
+http://212.8.248.94:2103/live/nani27/nani27/3503.ts
+#EXTINF:-1,|CA| SUPER ECRAN 4
+http://212.8.248.94:2103/live/nani27/nani27/3502.ts
+#EXTINF:-1,|CA| TCM
+http://212.8.248.94:2103/live/nani27/nani27/3495.ts
+#EXTINF:-1,|CA| TELE LATINO HD
+http://212.8.248.94:2103/live/nani27/nani27/3403.ts
+#EXTINF:-1,|CA| TELE QUEBEC
+http://212.8.248.94:2103/live/nani27/nani27/3453.ts
+#EXTINF:-1,|CA| TELETOON EAST HD
+http://212.8.248.94:2103/live/nani27/nani27/3402.ts
+#EXTINF:-1,|CA| TELETOON FRENCH HD
+http://212.8.248.94:2103/live/nani27/nani27/3452.ts
+#EXTINF:-1,|CA| THE WEATHER NETWORK
+http://212.8.248.94:2103/live/nani27/nani27/3363.ts
+#EXTINF:-1,|CA| TMN 1
+http://212.8.248.94:2103/live/nani27/nani27/3401.ts
+#EXTINF:-1,|CA| TMN 2
+http://212.8.248.94:2103/live/nani27/nani27/3400.ts
+#EXTINF:-1,|CA| TMN 3
+http://212.8.248.94:2103/live/nani27/nani27/3384.ts
+#EXTINF:-1,|CA| TMN 4
+http://212.8.248.94:2103/live/nani27/nani27/3399.ts
+#EXTINF:-1,|CA| TREEHOUSE
+http://212.8.248.94:2103/live/nani27/nani27/3378.ts
+#EXTINF:-1,|CA| TSN 1 FULL HD
+http://212.8.248.94:2103/live/nani27/nani27/3474.ts
+#EXTINF:-1,|CA| TSN 2 FULL HD
+http://212.8.248.94:2103/live/nani27/nani27/3473.ts
+#EXTINF:-1,|CA| TSN 3 FULL HD
+http://212.8.248.94:2103/live/nani27/nani27/3472.ts
+#EXTINF:-1,|CA| TSN 4 FULL HD
+http://212.8.248.94:2103/live/nani27/nani27/3471.ts
+#EXTINF:-1,|CA| TSN 5 FULL HD
+http://212.8.248.94:2103/live/nani27/nani27/3470.ts
+#EXTINF:-1,|CA| TV5 QUEBEC
+http://212.8.248.94:2103/live/nani27/nani27/3362.ts
+#EXTINF:-1,|CA| TVA GATINEAU
+http://212.8.248.94:2103/live/nani27/nani27/3398.ts
+#EXTINF:-1,|CA| TVA MONTREAL
+http://212.8.248.94:2103/live/nani27/nani27/3450.ts
+#EXTINF:-1,|CA| TVA QUEBEC HD
+http://212.8.248.94:2103/live/nani27/nani27/3494.ts
+#EXTINF:-1,|CA| TVA SPORTS
+http://212.8.248.94:2103/live/nani27/nani27/3493.ts
+#EXTINF:-1,|CA| TVO
+http://212.8.248.94:2103/live/nani27/nani27/3361.ts
+#EXTINF:-1,|CA| CANAL V MONTREAL
+http://212.8.248.94:2103/live/nani27/nani27/3449.ts
+#EXTINF:-1,|CA| VIE
+http://212.8.248.94:2103/live/nani27/nani27/3448.ts
+#EXTINF:-1,|CA| VISION
+http://212.8.248.94:2103/live/nani27/nani27/3492.ts
+#EXTINF:-1,|CA| VRAK TV
+http://212.8.248.94:2103/live/nani27/nani27/3491.ts
+#EXTINF:-1,|CA| W NETWORK
+http://212.8.248.94:2103/live/nani27/nani27/3447.ts
+#EXTINF:-1,|CA| WFN HD
+http://212.8.248.94:2103/live/nani27/nani27/3446.ts
+#EXTINF:-1,|CA| WGN
+http://212.8.248.94:2103/live/nani27/nani27/3445.ts
+#EXTINF:-1,|CA| Wild TV
+http://212.8.248.94:2103/live/nani27/nani27/3444.ts
+#EXTINF:-1,|CA| WSBK HD
+http://212.8.248.94:2103/live/nani27/nani27/3490.ts
+#EXTINF:-1,|CA| YES TV
+http://212.8.248.94:2103/live/nani27/nani27/3396.ts
+#EXTINF:-1,|CA| YOOPA
+http://212.8.248.94:2103/live/nani27/nani27/3395.ts
+#EXTINF:-1,|CA| YTV
+http://212.8.248.94:2103/live/nani27/nani27/3443.ts
+#EXTINF:-1,|CA| YTV West
+http://212.8.248.94:2103/live/nani27/nani27/3385.ts
+#EXTINF:-1,|CA| Z TELE
+http://212.8.248.94:2103/live/nani27/nani27/3489.ts
+#EXTINF:-1,|CA| ZEE TV
+http://212.8.248.94:2103/live/nani27/nani27/3488.ts
+#EXTINF:-1,|CA| ZESTE
+http://212.8.248.94:2103/live/nani27/nani27/3394.ts
