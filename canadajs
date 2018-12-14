@@ -1,4 +1,7 @@
 #EXTM3U
 #EXTINF:-1,TVA SPORTS
 http://free-iptv.pro:8000/YL10012/Mu1829/30595
-
+#EXTINF:-1,RDS HD
+http://vapi.vaders.tv/play/57579.m3u8?token=eyJ1c2VybmFtZSI6Iml0NmpodnVxYXIiLCJwYXNzd29yZCI6ImFrNXJ2bWZ0ZTYifQ==
+#EXTINF:-1,RDS 2 HD
+http://iptv.ndasat.com:88/Stravpoll345/e2nlCG5xew/2623
